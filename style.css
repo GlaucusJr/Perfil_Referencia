@@ -85,7 +85,7 @@
 
       background:
         linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.78)),
-        url('../image/Fundo_1_div-processed_lightpdf_com_.png');
+        url('image/Fundo_1_div-processed_lightpdf_com_.png');
 
       background-size: cover;
       background-position: center;
@@ -241,7 +241,7 @@
 
       background:
         linear-gradient(rgba(0,0,0,0.78), rgba(0,0,0,0.82)),
-        url('../image/Escritorio.png');
+        url('image/Escritorio.png');
 
       background-size: cover;
       background-position: center;
